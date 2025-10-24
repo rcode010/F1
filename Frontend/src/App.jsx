@@ -1,11 +1,12 @@
+import Drivers from "./Pages/DriverPage"
 
 function App() {
 
   return (
     <>
-      <p>
-        welcome
-      </p>
+      <div>
+        <Drivers/>
+      </div>
     </>
   )
 }
